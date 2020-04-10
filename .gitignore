@@ -1,0 +1,7 @@
+# Mac OS trash
+**/.DS_Store
+
+# Python trash
+**/__pycache__/**
+**/.ipynb_checkpoints/**
+
